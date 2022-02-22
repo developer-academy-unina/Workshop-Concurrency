@@ -4,4 +4,6 @@
 
 First release:
 
-* Classroom - Initial commit
+* Classroom-Start - Initial commit
+* Classroom-Mid - Initial commit
+* Classroom-Final - Initial commit
